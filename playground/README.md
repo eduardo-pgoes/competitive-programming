@@ -1,0 +1,1 @@
+There are simply random projects to help me better understand gaps I have, such as memory mangement.
